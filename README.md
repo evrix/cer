@@ -35,4 +35,4 @@ rivisti e sottolineati.
 ```
 ls . | sed -e 's/\(.\+\)/\-\ \[\ \]\ \[\1\]\(<docs\/\1>\)/g'
 ```
- . aggiungere rimozione estensione.
+ - aggiungere rimozione estensione.
