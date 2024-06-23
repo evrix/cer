@@ -23,3 +23,8 @@ rivisti e sottolineati.
 - [ ] [m_amte.MASE.DIE REGISTRO DECRETI(R).0000141.05-04-2024.pdf](<docs/m_amte.MASE.DIE REGISTRO DECRETI(R).0000141.05-04-2024.pdf>)
 - [ ] [m_amteMASEREGISTRO UFFICIALEE005096018-03-2024.pdf](<docs/m_amteMASEREGISTRO UFFICIALEE005096018-03-2024.pdf>)
 - [ ] [TIAD.pdf](<docs/TIAD.pdf>)
+
+### comando per creare la lista
+```
+ls . | sed -e 's/\(.\+\)/\-\ \[\ \]\ \[\1\]\(<docs\/\1>\)/g'
+```
