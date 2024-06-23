@@ -2,7 +2,7 @@
 Repository della comunità energetica rinnovabile.
 
 ## bignamino
- - [bignami cer](<docs/bignami cer.pdf>)
+ - [bignami cer](<docs/bignami CERr.pdf>)
 
 ## libro
  - [Cuocolo Lorenzo, Giampellegrini Pietro Paolo, Granato Oriana - Le comunita energetiche rinnovabili](docs/cer.epub)
