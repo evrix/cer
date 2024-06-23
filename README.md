@@ -32,10 +32,14 @@ rivisti e sottolineati.
 - [ ] [TIAD](<docs/TIAD.pdf>)
 
 <details>
-<summary>sviluppo sw</summary>
+
+ <summary>sviluppo sw</summary>
+ 
 ### comando per creare la lista
+
 ```
 ls . | sed -e 's/\(.\+\)/\-\ \[\ \]\ \[\1\]\(<docs\/\1>\)/g'
 ```
  - aggiungere rimozione estensione.
+
 </details>
