@@ -31,8 +31,11 @@ rivisti e sottolineati.
 - [ ] [m_amteMASEREGISTRO UFFICIALEE005096018-03-2024](<docs/m_amteMASEREGISTRO UFFICIALEE005096018-03-2024.pdf>)
 - [ ] [TIAD](<docs/TIAD.pdf>)
 
+<details>
+<summary>sviluppo sw</summary>
 ### comando per creare la lista
 ```
 ls . | sed -e 's/\(.\+\)/\-\ \[\ \]\ \[\1\]\(<docs\/\1>\)/g'
 ```
  - aggiungere rimozione estensione.
+</details>
