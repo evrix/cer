@@ -1,6 +1,13 @@
 # cer
 Repository della comunità energetica rinnovabile.
 
+## aggiornamenti
+ - bignami CER.pdf
+ - 162_2019.pdf
+ - 162_2019_42bis.rtf
+ - ALLEGATO 1 Regole Operative CACER.pdf
+ - Decreto MASE n.414 del 07.12.2023.pdf
+
 ## bignamino
  - [bignami cer](<docs/bignami CER.pdf>)
 
