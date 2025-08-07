@@ -47,9 +47,7 @@ rivisti e sottolineati.
 - [ ] [m_amteMASEREGISTRO UFFICIALEE005096018-03-2024](<docs/m_amteMASEREGISTRO UFFICIALEE005096018-03-2024.pdf>)
 - [ ] [TIAD](<docs/TIAD.pdf>)
 
-<details>
-
- <summary><h2>dev</h2></summary>
+## dev
  
 ### comando per creare la lista
 ```
@@ -65,5 +63,3 @@ ls . | sed -e 's/\(.\+\)/\-\ \[\ \]\ \[\1\]\(<docs\/\1>\)/g'
 6. [gantt](https://github.com/DHTMLX/gantt)
 
 - aggiungere rimozione estensione.
-
-</details>
