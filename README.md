@@ -62,5 +62,5 @@ ls . | sed -e 's/\(.\+\)/\-\ \[\ \]\ \[\1\]\(<docs\/\1>\)/g'
 2. [planka](https://github.com/plankanban/planka)
 3. [organice](https://github.com/200ok-ch/organice)
 4. [bolt](https://github.com/boltpkg/bolt)
-5. [Tasks.md](https://github.com/BaldissaraMatheus/Tasks.md))
+5. [Tasks.md](https://github.com/BaldissaraMatheus/Tasks.md)
 6. [gantt](https://github.com/DHTMLX/gantt)
