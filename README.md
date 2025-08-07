@@ -17,10 +17,7 @@
 - [La mappa degli incentivi come creare una CER CER a iniziativa pubblica bando per i comuni fino a 50mila abitanti](https://biblus.acca.it/comunita-energetiche-cer-decreto-incentivi/)
 - [Comunità energetiche: al via il bando per i comuni fino a 50mila abitanti](https://biblus.acca.it/notizie/comunita-energetiche-al-via-il-bando-per-i-comuni-fino-a-50mila-abitanti/)
 
----
-
 ## cer
-Repository della comunità energetica rinnovabile.
 
 ### bignamino
  - [bignami cer](<docs/bignami CER.pdf>)
