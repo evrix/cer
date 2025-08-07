@@ -1,7 +1,9 @@
+<base target="_blank" rel="noopener noreferrer">
+
 # Contributi Economici Roiate
 
 ## [DMO: destination management organization](https://www.visitlazio.com/dmo-destination-management-organization/)
-- [Promozione dell’attrattività turistica del territorio attraverso il cofinanziamento di progetti presentati dalle DMO](https://www.lazioeuropa.it/bandi/promozione-dellattrattivita-turistica-del-territorio-attraverso-il-cofinanziamento-di-progetti-presentati-dalle-dmo/){:target="_blank" rel="noopener noreferrer"}
+- [Promozione dell’attrattività turistica del territorio attraverso il cofinanziamento di progetti presentati dalle DMO](https://www.lazioeuropa.it/bandi/promozione-dellattrattivita-turistica-del-territorio-attraverso-il-cofinanziamento-di-progetti-presentati-dalle-dmo/){:target="_blank"}
   - [Alta Ciociaria, authentic life](https://www.altaciociaria.it/)
 
 ## Bandi
