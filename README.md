@@ -1,3 +1,33 @@
+# Roiate
+
+## [DMO: destination management organization](https://www.visitlazio.com/dmo-destination-management-organization/)
+- [Promozione dell’attrattività turistica del territorio attraverso il cofinanziamento di progetti presentati dalle DMO](https://www.lazioeuropa.it/bandi/promozione-dellattrattivita-turistica-del-territorio-attraverso-il-cofinanziamento-di-progetti-presentati-dalle-dmo/)
+  - [Alta Ciociaria, authentic life](https://www.altaciociaria.it/)
+
+## Bandi
+- [Messa in sicurezza di edifici e territorio: i fondi per i Comuni](https://biblus.acca.it/contributi-messa-in-sicurezza-edifici-e-territorio/)
+- [Valorizzazione del patrimonio culturale dei piccoli Comuni – annualità 2025](https://www.lazioeuropa.it/bandi/valorizzazione-del-patrimonio-culturale-dei-piccoli-comuni-annualita-2025/)
+- [Contributi per la realizzazione di parcheggi urbani nei Comuni del Lazio](https://www.lazioeuropa.it/bandi/contributi-per-la-realizzazione-di-parcheggi-urbani-nei-comuni-del-lazio/)
+[Lazio Terra di Cinema – Festival, Rassegne, Premi](https://www.lazioeuropa.it/bandi/lazio-terra-di-cinema-festival-rassegne-premi/)
+
+
+## Comunità Energetiche CER
+- (Come creare una CER)[https://biblus.acca.it/come-creare-una-comunita-energetica-rinnovabile/]
+- (CER a iniziativa pubblica: come costituire una Comunità energetica in partenariato pubblico-privato](https://biblus.acca.it/notizie/cer-a-iniziativa-pubblica-come-costituire-una-comunita-energetica-in-partenariato-pubblico-privato/)
+- [La mappa degli incentivi come creare una CER CER a iniziativa pubblica bando per i comuni fino a 50mila abitanti](https://biblus.acca.it/comunita-energetiche-cer-decreto-incentivi/)
+- [Comunità energetiche: al via il bando per i comuni fino a 50mila abitanti](https://biblus.acca.it/notizie/comunita-energetiche-al-via-il-bando-per-i-comuni-fino-a-50mila-abitanti/)
+
+
+## dev
+1. [How to use GitHub for project management](https://graphite.dev/guides/github-project-management-guide)
+2. [planka](https://github.com/plankanban/planka)
+3. [organice](https://github.com/200ok-ch/organice)
+4. [bolt](https://github.com/boltpkg/bolt)
+5. [Tasks.md](https://github.com/boltpkg/bolt)
+6. [gantt](https://github.com/DHTMLX/gantt)
+
+---
+
 # cer
 Repository della comunità energetica rinnovabile.
 
