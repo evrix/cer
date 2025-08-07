@@ -17,15 +17,6 @@
 - [La mappa degli incentivi come creare una CER CER a iniziativa pubblica bando per i comuni fino a 50mila abitanti](https://biblus.acca.it/comunita-energetiche-cer-decreto-incentivi/)
 - [Comunità energetiche: al via il bando per i comuni fino a 50mila abitanti](https://biblus.acca.it/notizie/comunita-energetiche-al-via-il-bando-per-i-comuni-fino-a-50mila-abitanti/)
 
-
-## dev
-1. [How to use GitHub for project management](https://graphite.dev/guides/github-project-management-guide)
-2. [planka](https://github.com/plankanban/planka)
-3. [organice](https://github.com/200ok-ch/organice)
-4. [bolt](https://github.com/boltpkg/bolt)
-5. [Tasks.md](https://github.com/boltpkg/bolt)
-6. [gantt](https://github.com/DHTMLX/gantt)
-
 ---
 
 ## cer
@@ -63,14 +54,21 @@ rivisti e sottolineati.
 
 <details>
 
- <summary>sviluppo sw</summary>
+ <summary><h2>dev</h2></summary>
  
-## comando per creare la lista
-
+### comando per creare la lista
 ```
 ls . | sed -e 's/\(.\+\)/\-\ \[\ \]\ \[\1\]\(<docs\/\1>\)/g'
 ```
 
- - aggiungere rimozione estensione.
+### crm's to test
+1. [How to use GitHub for project management](https://graphite.dev/guides/github-project-management-guide)
+2. [planka](https://github.com/plankanban/planka)
+3. [organice](https://github.com/200ok-ch/organice)
+4. [bolt](https://github.com/boltpkg/bolt)
+5. [Tasks.md](https://github.com/boltpkg/bolt)
+6. [gantt](https://github.com/DHTMLX/gantt)
+
+- aggiungere rimozione estensione.
 
 </details>
