@@ -55,6 +55,7 @@ rivisti e sottolineati.
 ```
 ls . | sed -e 's/\(.\+\)/\-\ \[\ \]\ \[\1\]\(<docs\/\1>\)/g'
 ```
+- aggiungere rimozione estensione.
 
 ### crm's to test
 1. [How to use GitHub for project management](https://graphite.dev/guides/github-project-management-guide)
@@ -63,5 +64,3 @@ ls . | sed -e 's/\(.\+\)/\-\ \[\ \]\ \[\1\]\(<docs\/\1>\)/g'
 4. [bolt](https://github.com/boltpkg/bolt)
 5. [Tasks.md](https://github.com/boltpkg/bolt)
 6. [gantt](https://github.com/DHTMLX/gantt)
-
-- aggiungere rimozione estensione.
