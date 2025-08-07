@@ -1,4 +1,4 @@
-# Roiate
+# Contributi Economici Roiate
 
 ## [DMO: destination management organization](https://www.visitlazio.com/dmo-destination-management-organization/)
 - [Promozione dell’attrattività turistica del territorio attraverso il cofinanziamento di progetti presentati dalle DMO](https://www.lazioeuropa.it/bandi/promozione-dellattrattivita-turistica-del-territorio-attraverso-il-cofinanziamento-di-progetti-presentati-dalle-dmo/)
@@ -12,8 +12,8 @@
 
 
 ## Comunità Energetiche CER
-- (Come creare una CER)[https://biblus.acca.it/come-creare-una-comunita-energetica-rinnovabile/]
-- (CER a iniziativa pubblica: come costituire una Comunità energetica in partenariato pubblico-privato](https://biblus.acca.it/notizie/cer-a-iniziativa-pubblica-come-costituire-una-comunita-energetica-in-partenariato-pubblico-privato/)
+- [Come creare una CER](https://biblus.acca.it/come-creare-una-comunita-energetica-rinnovabile/)
+- [CER a iniziativa pubblica: come costituire una Comunità energetica in partenariato pubblico-privato](https://biblus.acca.it/notizie/cer-a-iniziativa-pubblica-come-costituire-una-comunita-energetica-in-partenariato-pubblico-privato/)
 - [La mappa degli incentivi come creare una CER CER a iniziativa pubblica bando per i comuni fino a 50mila abitanti](https://biblus.acca.it/comunita-energetiche-cer-decreto-incentivi/)
 - [Comunità energetiche: al via il bando per i comuni fino a 50mila abitanti](https://biblus.acca.it/notizie/comunita-energetiche-al-via-il-bando-per-i-comuni-fino-a-50mila-abitanti/)
 
@@ -28,23 +28,16 @@
 
 ---
 
-# cer
+## cer
 Repository della comunità energetica rinnovabile.
 
-## aggiornamenti
- - bignami CER.pdf
- - 162_2019.pdf
- - 162_2019_42bis.rtf
- - ALLEGATO 1 Regole Operative CACER.pdf
- - Decreto MASE n.414 del 07.12.2023.pdf
-
-## bignamino
+### bignamino
  - [bignami cer](<docs/bignami CER.pdf>)
 
-## libro
+### libro
  - [Cuocolo Lorenzo, Giampellegrini Pietro Paolo, Granato Oriana - Le comunita energetiche rinnovabili](docs/cer.epub)
 
-## elenco di leggi e regolamenti
+### elenco di leggi e regolamenti
 rivisti e sottolineati.
 - [ ] [144_2022](<docs/144_2022.pdf>)
 - [ ] [162_2019_42bis](<docs/162_2019_42bis.rtf>)
@@ -72,7 +65,7 @@ rivisti e sottolineati.
 
  <summary>sviluppo sw</summary>
  
-### comando per creare la lista
+## comando per creare la lista
 
 ```
 ls . | sed -e 's/\(.\+\)/\-\ \[\ \]\ \[\1\]\(<docs\/\1>\)/g'
