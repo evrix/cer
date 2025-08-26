@@ -12,6 +12,8 @@
 - [Contributi per la realizzazione di parcheggi urbani nei Comuni del Lazio](https://www.lazioeuropa.it/bandi/contributi-per-la-realizzazione-di-parcheggi-urbani-nei-comuni-del-lazio/)
 [Lazio Terra di Cinema – Festival, Rassegne, Premi](https://www.lazioeuropa.it/bandi/lazio-terra-di-cinema-festival-rassegne-premi/)
 
+[tutti i bandi attivi](tutti.md)
+
 ## Comunità Energetiche CER
 - [Come creare una CER](https://biblus.acca.it/come-creare-una-comunita-energetica-rinnovabile/)
 - [CER a iniziativa pubblica: come costituire una Comunità energetica in partenariato pubblico-privato](https://biblus.acca.it/notizie/cer-a-iniziativa-pubblica-come-costituire-una-comunita-energetica-in-partenariato-pubblico-privato/)
