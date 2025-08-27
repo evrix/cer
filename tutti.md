@@ -19,4 +19,4 @@
 - [251231 - Lazio Terra di Cinema - Festival, Rassegne, Premi - LazioEuropa](https://www.lazioeuropa.it/bandi/lazio-terra-di-cinema-festival-rassegne-premi/)
 - [260401 - Acchiappa Talenti: incentivi alle imprese per l’inserimento lavorativo di giovani e adulti - LazioEuropa](https://www.lazioeuropa.it/bandi/acchiappa-talenti-incentivi-alle-imprese-per-linserimento-lavorativo-di-giovani-e-adulti/)
 - [INVEST IN LAZIO - Lazio International - Lazio Innova](https://www.lazioinnova.it/laziointernational/invest-in-lazio/)
-- [noend | Banca nazionale delle Terre Agricole - Scarica l&#39;elenco dei terreni - ISMEA](https://www.ismea.it/flex/FixedPages/Common/Bta-DownloadElencoTerreni.php/L/IT)
+- [noend - Banca nazionale delle Terre Agricole - Scarica l&#39;elenco dei terreni - ISMEA](https://www.ismea.it/flex/FixedPages/Common/Bta-DownloadElencoTerreni.php/L/IT)
