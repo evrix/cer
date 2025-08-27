@@ -1,3 +1,5 @@
+<base target="_blank" rel="noopener noreferrer">
+
 # tutti i bandi attivi
 
 - [250901 | Cuori Narranti, concorso letterario per i giovani del Lazio - LazioEuropa](https://www.lazioeuropa.it/bandi-regionali/cuori-narranti-concorso-letterario-per-i-giovani-del-lazio/)
