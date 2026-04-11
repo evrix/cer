@@ -1,0 +1,35 @@
+p, dl dd, .sidenote {
+  text-align: justify;
+  text-justify: auto;
+  text-indent: 1em;
+  margin-top:0;
+  margin-bottom:0;
+}
+
+dt {
+  font-weight: bold;
+}
+
+dd {
+  font-style: oblique;
+}
+
+ul li {
+  list-style: none;
+}
+
+summary  {
+  list-style: none;
+}
+
+/* sigh, Safari again */
+summary::-webkit-details-marker {
+  display: none;
+}
+
+summary {
+  padding: 10px 10px 10px 40px;
+  background: url(../img/arrow.svg) no-repeat 1em 50%;
+  background-size: 1.2em;
+/*   font-weight: bold; */
+}
